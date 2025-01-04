@@ -1,4 +1,4 @@
-# CYBERDOSTI_Project_3
+# BRUTE FORCE
 Password cracker with brute force technique 
 
 This script tries all possible combinations of uppercase, lowercase letters and numbers up to a length of 8. If it finds the password, it returns it. Otherwise, it returns None. Remember the longer the password is the more time it'll take to crack it.
